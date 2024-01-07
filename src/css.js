@@ -56,7 +56,6 @@ const string = `.skin * {
     /*border-radius: 左上 右上 右下 左下,设置哪个位置，该位置就变圆，该位置设置出了上半个圆弧*/
     background: black;
   }
-  
   .eye {
     border: 2px solid #000;
     width: 64px;
